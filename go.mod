@@ -11,7 +11,7 @@ require (
 	github.com/containerd/containerd v1.4.12
 	github.com/docker/cli v20.10.3+incompatible
 	github.com/docker/compose-cli v1.0.5-0.20201215113846-10a19b115968
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.0+incompatible
 	github.com/docker/docker v20.10.3+incompatible
 	github.com/docker/docker-credential-helpers v0.6.4-0.20210125172408-38bea2ce277a // indirect
 	github.com/docker/go-units v0.4.0
