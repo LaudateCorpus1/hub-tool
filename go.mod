@@ -6,7 +6,7 @@ require (
 	github.com/bitly/go-hostpool v0.1.0 // indirect
 	github.com/bugsnag/bugsnag-go v1.5.3 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
-	github.com/cli/cli v1.1.0
+	github.com/cli/cli v1.2.1
 	github.com/cloudflare/cfssl v1.4.1 // indirect
 	github.com/containerd/containerd v1.4.12
 	github.com/docker/cli v20.10.3+incompatible
